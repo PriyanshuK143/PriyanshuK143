@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on Python<br>🌱 I’m currently learning Python Programming
+Detail-oriented Data Analyst with a strong foundation in data analytics, visualization, and machine learning, seeking
+to leverage analytical skills and technical expertise to drive data-driven decision-making in a dynamic organization.
+Eager to apply hands-on experience with Python, SQL, and Power BI to uncover actionable insights and contribute🧑‍🎓📈📊
+to the optimization of business performance 
+<br>
+🔭 I’m currently working on Python
+<br>
+🌱 I’m currently learning Machine learning 
 
 
 ## 🌐 Socials:
