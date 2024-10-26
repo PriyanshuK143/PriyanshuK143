@@ -1,11 +1,10 @@
 # 💫 About Me:
-Detail-oriented Data Analyst with a strong foundation in data analytics, visualization, and machine learning, seeking
-to leverage analytical skills and technical expertise to drive data-driven decision-making in a dynamic organization.
-Eager to apply hands-on experience with Python, SQL, and Power BI to uncover actionable insights and contribute to the optimization of business performance🧑‍🎓📈📊
+Detail-oriented Data enthusiast with a strong foundation in Machine learning, Data analytics, Data Visualization, seeking to leverage analytical skills and technical expertise to drive data-driven decision-making in a dynamic organization.
+Eager to apply hands-on experience with Python, SQL, Machine Learning, Microsoft Excel and Power BI to uncover actionable insights and contribute to the optimization of business performance.🧑‍🎓📈📊
 <br>
-🔭 I’m currently working on Python
+🔭 I’m currently working on Python.
 <br>
-🌱 I’m currently learning Machine learning 
+🌱 I’m currently learning Machine learning and Deep Learning....
 
 
 ## 🌐 Socials:
