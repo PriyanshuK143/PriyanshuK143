@@ -60,7 +60,7 @@ Eager to apply hands-on experience with Python, SQL, Machine Learning, Microsoft
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Priyanshuk143&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quotes Dose..
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
